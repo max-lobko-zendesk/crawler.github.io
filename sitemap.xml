@@ -17,11 +17,15 @@
     <lastmod>2021-12-06T11:57:02+01:00</lastmod>
   </url>
   <url>
-    <loc>https://max-lobko-zendesk.github.io/article-with-duplicated-title.html</loc>
+    <loc>https://max-lobko-zendesk.github.io/invalid.html</loc>
     <lastmod>2021-12-06T11:57:02+01:00</lastmod>
   </url>
-  <url>
-    <loc>https://max-lobko-zendesk.github.io/invalid.html</loc>
+   <url>
+    <loc>https://max-lobko-zendesk.github.io/article-in-Danish-de-DK.html</loc>
+    <lastmod>2021-12-06T11:57:02+01:00</lastmod>
+  </url>
+   <url>
+    <loc>https://max-lobko-zendesk.github.io/article-in-Danish-de.html</loc>
     <lastmod>2021-12-06T11:57:02+01:00</lastmod>
   </url>
 </urlset>
