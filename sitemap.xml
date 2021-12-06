@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
+    <loc>https://max-lobko-zendesk.github.io/test-article-with-body-as-title.html</loc>
+    <lastmod>2021-12-06T11:57:02+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://max-lobko-zendesk.github.io/test-article-with-h2-as-title.html</loc>
+    <lastmod>2021-12-06T11:57:02+01:00</lastmod>
+  </url>
+  <url>
     <loc>https://max-lobko-zendesk.github.io/test-article-with-title.html</loc>
     <lastmod>2021-12-06T11:57:02+01:00</lastmod>
   </url>
